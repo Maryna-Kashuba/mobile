@@ -45,7 +45,7 @@ img {
 
     .collection {background-image: url(../images/mob/collection/mob_collection_element.png);
         background-repeat: no-repeat;
-        background-position: left 0 top 298px;
+        background-position-y: 316.45px;
         margin: 0 auto;
     }
          /*  @media screen and (min-resolution: 192dpi),
@@ -190,7 +190,7 @@ img {
          .collection {
              background-image: url(../images/desk/collection/desk_collection_element.png);
              background-repeat: no-repeat;
-             background-position-y: 271.54px;
+             background-position-y: 291.54px;
          }
 
  /*   @media screen and (min-resolution: 192dpi),
