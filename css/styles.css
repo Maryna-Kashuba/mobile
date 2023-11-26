@@ -209,12 +209,12 @@ img {
 
     .container {
         padding-left: 32px;
-        max-width: 1440px;
+        max-width: 1240px;
         padding-right: 32px;
     }
 
     .wrapper-imag-collection {
-        max-width: 1440px;
+        max-width: 1240px;
         margin-left: auto;
         margin-right: auto;
     }
