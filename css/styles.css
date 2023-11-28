@@ -159,9 +159,12 @@ img {
         background-image: url(../img/desk/collection/desk_collection_element.png);
         background-repeat: no-repeat;
         background-position-y: 291px;
-        max-width: 1280px;
         padding-top: 70px;
         padding-bottom: 150px;
+
+        max-width: 1280px;
+        margin-left: auto;
+        margin-right: auto;
     }
 
     .collection-list {
